@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cd9eaa6d47cff6b4384cd1535673e21e
+labels:
+- Spawner
+- EnemySpawn
+- Editor
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

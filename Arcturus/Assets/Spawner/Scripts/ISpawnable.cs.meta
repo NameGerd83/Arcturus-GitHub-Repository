@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 12e78b3b7bb57f64aaf12f2d7080f78d
+labels:
+- Spawner
+- EnemySpawn
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

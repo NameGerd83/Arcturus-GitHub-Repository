@@ -1,0 +1,1 @@
+Move the gizmos folder to the root of your project under Assets.

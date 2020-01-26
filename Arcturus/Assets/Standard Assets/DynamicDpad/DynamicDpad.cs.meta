@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3e100f7393c5a634db153ed1468fb31e
+labels:
+- controller
+- analogue stick
+- thumb stick
+- thumb pad
+- d-pad
+- dpad
+- controls
+- touch controls
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
